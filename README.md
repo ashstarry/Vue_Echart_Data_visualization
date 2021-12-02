@@ -11,9 +11,7 @@ ES6/7
 less
 
 # how to run
-git clone https://gitee.com/penggang-home/data-view.git
-
-cd data-view
+git clone 
 
 npm install
 
